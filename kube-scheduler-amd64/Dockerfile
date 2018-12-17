@@ -1,0 +1,3 @@
+FROM gcr.io/google-containers/kube-scheduler-amd64@sha256:dc42eec94bde0394b02156071c014b4bbee579979a9778abfe33ec96283f83bd
+MAINTAINER 2eke393
+
