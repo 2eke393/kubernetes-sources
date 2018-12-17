@@ -1,3 +1,3 @@
-FROM gcr.io/google-containers/kube-apiserver-amd64@sha256:956bea8c139620c9fc823fb81ff9b5647582b53bd33904302987d56ab24fc187
+FROM gcr.io/google-containers/kube-apiserver-amd64@sha256:378cd9327666cc944a2f15f2b7877da8f090aaeb7d1a1a2871bf8c53ba9ffcd4
 MAINTAINER 2eke393
 
