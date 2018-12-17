@@ -1,0 +1,3 @@
+FROM gcr.io/google-containers/kube-controller-manager-amd64@sha256:af281226e120d0f44ef91b59b47f265c6d5cc06d8831a69419f6c10cdc786167
+MAINTAINER: 2eke393
+
